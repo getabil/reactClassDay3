@@ -1,0 +1,17 @@
+*{
+
+    box-sizing: border-box;
+}
+.ul1{
+display: flex;
+justify-content: space-between;
+margin: 0;
+padding: 0;
+font-size: xx-large;
+font-weight: bold;
+background-color: darkviolet;
+text-decoration: none;
+list-style: none;
+width: 100%;
+height: 15vh;
+}

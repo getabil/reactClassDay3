@@ -1,0 +1,36 @@
+.sidebar{
+    height: 100vh;
+    background-color: lightslategray;
+    width: 15%;
+    padding: 40px;
+    align-items: center;
+}
+   .sidebar> ul {
+    margin: auto;
+    list-style:none;
+    text-align: center;
+    
+    
+   
+}
+li a {
+padding-top: 10px;
+padding-bottom: 2px;
+    text-decoration: none;
+}
+a{
+    display: flex;
+  justify-content: space-around;
+  color: aliceblue;
+  font-weight: 900;
+}
+
+a:hover{
+background-color: blue;
+scale: 1.3;
+
+
+}
+
+
+
